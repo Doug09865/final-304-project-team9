@@ -59,6 +59,7 @@ main h2 {
   font-size: 2em;
   border-bottom: 2px solid #112240;
   padding-bottom: 0.5em;
+  text-align: center
 }
 
 main h3, main h4 {
