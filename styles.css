@@ -82,7 +82,7 @@ main ul {
 }
 
 main ul li {
-  background-color: #112240;
+  background-color: #1c2d4a; 
   padding: 1em;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
@@ -96,7 +96,7 @@ main ul li:hover {
 
 main ul li a {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #a9c4ff;
   font-size: 1em;
   display: block;
   text-align: center;
@@ -105,7 +105,7 @@ main ul li a {
 }
 
 main ul li a:hover {
-  color: #ccd6f6;
+  color: #e6f1ff; 
 }
 
 footer {
